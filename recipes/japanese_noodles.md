@@ -1,7 +1,7 @@
 # Japanese Noodles with Creamy Pumpkin and Avocado Sauce
 ## by Claudio Satriano
 
-![photo](http://www.foodista.com/sites/default/files/styles/recype/public/japanesnoodleswithcreamypumpkinandavocadosaucelandscape550x550.jpg)
+![photo](recipes/japanese_noodles.jpg)
 
 ### Ingredients
 
